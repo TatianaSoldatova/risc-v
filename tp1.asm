@@ -7,7 +7,6 @@
 #   
 #   Auteur(s):
 # 	    - Nom : Tatiana Soldatova
-# 	      Code permanent : SOLT29558504
 #
 
 .text
